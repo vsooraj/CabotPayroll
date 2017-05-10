@@ -1,0 +1,9 @@
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\bin\Debug\netcoreapp1.1\Cabot.Payroll.Web.deps.json
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\bin\Debug\netcoreapp1.1\Cabot.Payroll.Web.runtimeconfig.json
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\bin\Debug\netcoreapp1.1\Cabot.Payroll.Web.runtimeconfig.dev.json
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\bin\Debug\netcoreapp1.1\Cabot.Payroll.Web.dll
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\bin\Debug\netcoreapp1.1\Cabot.Payroll.Web.pdb
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\obj\Debug\netcoreapp1.1\Cabot.Payroll.Web.csprojResolveAssemblyReference.cache
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\obj\Debug\netcoreapp1.1\Cabot.Payroll.Web.AssemblyInfo.cs
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\obj\Debug\netcoreapp1.1\Cabot.Payroll.Web.dll
+D:\Projects\CabotPayroll\Cabot.Payroll.Web\obj\Debug\netcoreapp1.1\Cabot.Payroll.Web.pdb
